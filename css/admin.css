@@ -6,6 +6,9 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+.Cambio_color_letra{
+    color: var(--text-color);
+}
 .eliminar{
     background-color: #c10b0b59;
 }
